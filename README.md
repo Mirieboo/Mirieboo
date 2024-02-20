@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirieboo
+- 👋 Hi, I’m MIRIAM
 - 👀 I’m interested in data science , data analysis and website development
 - 🌱 I’m currently learning excel and all the things related to it from functions,queries to databases
 - 💞️ I’m looking to collaborate on any data analysis project and website development
