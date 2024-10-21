@@ -1,8 +1,6 @@
 - 👋 Hi, I’m MIRIAM
-- 👀 I’m interested in data science , data analysis and website development
-- 🌱 I’m currently learning excel and all the things related to it from functions,queries to databases
-- 💞️ I’m looking to collaborate on any data analysis project and website development
-- 📫 How to reach me
+- 👀 I’m interested in machine learning and fullstack development
+- 📫 How to reach me miriammugure610@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: no quitting
 
